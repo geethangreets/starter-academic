@@ -1,21 +1,25 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Geethan Karunaratne
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Doctoral Student at IBM Research Zurcih
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: IBM Research Zurich
+  url: https://https://www.zurich.ibm.com
+- name: ETH Zurich
+  url: https://https://www.ethz.ch
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include in-memory computing, hd-computing
 
+This site is under construction. Thanks for your patience
+<!---
 # Interests to show in About widget
 interests:
 - Artificial Intelligence
@@ -78,3 +82,5 @@ Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+-->
